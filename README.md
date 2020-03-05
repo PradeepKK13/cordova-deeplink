@@ -336,7 +336,7 @@ sApp.start(function(success) {
 Use **iOS**
 
 _Set iOS application_
-
+ 
 ```js
 var sApp = startApp.set("twitter://");
 ```
