@@ -43,7 +43,7 @@
 	    
         <source-file src="src/android/startApp.java" target-dir="src/com/gems/deeplink" />
         <source-file src="src/android/Assets.java" target-dir="src/com/gems/deeplink" />
-        <source-file src="src/android/res/xml/file_paths.xml" target-dir="res/xml" />
+        <!---<source-file src="src/android/res/xml/file_paths.xml" target-dir="res/xml" />--->
     </platform>
 
 
