@@ -5,7 +5,7 @@
 	version="6.1.6">
 
     <name>startApp</name>
-    <description>cordova plugin for check or launch other application in android & iOS device.</description>
+    <description>cordova plugin for check or launch other application in android and iOS device.</description>
     <license>MIT</license>
     <keywords>cordova,startapp</keywords>
 
